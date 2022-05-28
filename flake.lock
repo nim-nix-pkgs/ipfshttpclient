@@ -35,11 +35,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1653686554,
-        "narHash": "sha256-ydsrAHapHdXYBrkWgyjVNMsmfPZayU0Nthuwn401Zxg=",
+        "lastModified": 1653700367,
+        "narHash": "sha256-/G3ZuEDkIJBMgnPYIy+zc+J0VlQDHx4kpoCkl79h+r8=",
         "owner": "nim-nix-pkgs",
         "repo": "ipfshttpclient",
-        "rev": "6741355a52bfae68f0aeb0435538cddb446d82a0",
+        "rev": "2c9fe2ed4f351f1fbe329e52c13a72c093afffdc",
         "type": "github"
       },
       "original": {
